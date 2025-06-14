@@ -13,3 +13,5 @@ preprocess.py
 .DS_Store
 metadata.json
 promptfoo.yaml
+vercel.json
+package.json
